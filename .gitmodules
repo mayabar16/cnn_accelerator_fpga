@@ -1,0 +1,3 @@
+[submodule "lenet"]
+	path = lenet
+	url = git@github.com:fpetrot/lenet.git
